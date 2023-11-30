@@ -1,1 +1,2 @@
-i am learning devops tool
+i am learning devops tool.
+learn linux,git,github.
